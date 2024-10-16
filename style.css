@@ -1,0 +1,32 @@
+h1
+{
+	color:blue;
+	text-align:center;
+}
+.disn1
+{
+	border-style:solid;
+	color:white;
+	background-color:blue;
+	margin-top:10px;
+	border-radius:100px;
+}
+.disn2
+{
+	color:blue;
+	border-style:solid;
+	margin-top:10px;
+	border-radius:10px;
+}
+.disn3
+{
+	border-style:solid;
+	color:white;
+	background-color:blue;
+	margin-top:10px;
+	border-radius:10px;
+}
+button
+{
+	color:blue;
+}

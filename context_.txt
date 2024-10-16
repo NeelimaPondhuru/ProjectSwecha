@@ -1,0 +1,34 @@
+context :
+Lithosphere
+The lithosphere is the solid, outer part of earth. (Land) 
+Types
+Crust - oceanic crust, continental crust (0 -100km) 
+Mantle (2900 km) 
+Core
+Innercore(solid) -6378km
+Outercore(liquid) -5100 km
+  
+
+Atmosphere
+Atmosphere is made of the layers of gases surrounding a planet
+LAYERS
+Troposphere(jet, hot air balloon) 0km Or 0 ft
+Stratosphere (weather baloon) 12km(39000ft) 
+Mesosphere (meteors) 50km(164000ft) 
+Thermosphere(aurora) 80km(262000mil) 
+Exosphere (space station) 10000km(6200mil)
+
+
+Biosphere
+Biosphere is made up of all the living things
+Consists of
+Lithosphere
+Hydrosphere
+Atmosphere
+
+Hydrosphere is the total amount of water on a planet
+It exist s in the form of
+Ocean, lakes, rivers
+Groundwater-wells, aquifiers
+Water vapour - clouds, fog
+Frozen - glacier, ice cap, icebergs
